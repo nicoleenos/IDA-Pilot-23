@@ -1,0 +1,44 @@
+bookID,title,authors,average_rating,isbn,isbn13,language_code,num_pages,ratings_count,text_reviews_count,publication_date,publisher
+1,Harry Potter and the Sorcerer's Stone,J.K. Rowling,4.47,0439554934,9780439554933,eng,309,730120,9422,6/26/1997,Scholastic Inc.
+2,To Kill a Mockingbird,Harper Lee,4.07,0061120081,9780061120084,eng,324,4144217,73572,7/11/1960,Harper Perennial Modern Classics
+3,The Great Gatsby,F. Scott Fitzgerald,3.91,0743273567,9780743273565,eng,180,3313091,28765,9/30/2004,Scribner
+4,Pride and Prejudice,Jane Austen,4.26,0679783261,9780679783268,eng,279,2816153,23509,10/10/2000,Modern Library
+5,1984,George Orwell,4.18,0451524934,9780451524935,eng,268,2436332,26497,1/1/1950,Signet
+6,The Catcher in the Rye,J.D. Salinger,3.81,0316769177,9780316769174,eng,277,2301053,47559,7/15/1951,Back Bay Books
+7,The Hobbit,J.R.R. Tolkien,4.28,0618968636,9780618968633,eng,366,2364963,31662,9/21/1937,Mariner Books
+8,The Da Vinci Code,Dan Brown,3.85,0307474275,9780307474278,eng,489,16788235,53985,3/18/2003,Anchor
+9,The Alchemist,Paulo Coelho,3.85,0061122416,9780061122415,eng,197,1631221,29421,5/1/1993,HarperOne
+10,Throne of Glass,Sarah J. Maas,4.22,1599906953,9781599906959,eng,406,283492,22747,8/2/2012,Bloomsbury USA Children's
+11,The Book Thief,Markus Zusak,4.36,0375831002,9780375831003,eng,552,1780196,53693,3/14/2006,Alfred A. Knopf
+12,Eat Pray Love,Elizabeth Gilbert,3.56,0670032643,9780670032641,eng,334,1391133,41217,2/16/2006,Viking
+13,The Giver,Lois Lowry,4.13,0385732554,9780385732550,eng,208,1592052,57915,9/1/2002,Ember
+14,The Help,Kathryn Stockett,4.45,0399155341,9780399155345,eng,464,1775351,76382,2/10/2009,Putnam Adult
+15,Twilight,Stephenie Meyer,3.58,0316015849,9780316015844,eng,498,4579517,94902,9/6/2006,Little Brown and Company
+16,Gone with the Wind,Margaret Mitchell,4.30,0446675539,9780446675536,eng,1037,947718,15952,6/30/1936,Grand Central Publishing
+17,The Maze Runner,James Dashner,4.02,0385737955,9780385737951,eng,374,107974,11901,10/6/2009,Delacorte Press
+18,The Catcher in the Rye,J.D. Salinger,3.81,0316769487,9780316769488,eng,277,2241768,44897,1/30/2001,Back Bay Books
+19,Middlesex,Jeffrey Eugenides,3.99,0312427735,9780312427735,eng,529,498905,25763,9/4/2002,Picador
+20,The Grapes of Wrath,John Steinbeck,3.96,0143039431,9780143039433,eng,479,630909,15342,4/10/2006,Penguin Classics
+21,Animal Farm,George Orwell,3.93,0451526341,9780451526342,eng,102,2863340,61752,3/1/1996,Signet Classics
+22,Brave New World,Aldous Huxley,3.98,0060850523,9780060850524,eng,268,1368776,21403,10/17/2006,Harper Perennial
+23,The Road,Cormac McCarthy,3.96,0307387895,9780307387899,eng,241,636925,39971,3/28/2007,Vintage
+24,The Kite Runner,Khaled Hosseini,4.29,159463193X,9781594631931,eng,324,2681415,64647,5/29/2003,Riverhead Books
+25,The Secret Life of Bees,Sue Monk Kidd,4.03,0671525437,9780671525436,eng,302,1231967,17150,1/28/2002,Viking
+26,The Road to Wigan Pier,George Orwell,3.91,0140015203,9780140015204,eng,240,95096,1997,1937,Penguin
+27,The Sisterhood of the Traveling Pants,Ann Brashares,3.77,0385730586,9780385730587,eng,294,555123,10354,6/1/2001,Delacorte Press
+28,The Glass Castle,Jeannette Walls,4.25,074324754X,9780743247542,eng,288,861612,29650,1/17/2005,Scribner
+29,The Poisonwood Bible,Barbara Kingsolver,4.05,0060786507,9780060786502,eng,546,642190,16625,8/30/1998,Harper Perennial
+30,The Girl with the Dragon Tattoo,Stieg Larsson,4.13,0307269752,9780307269751,eng,465,2219165,44779,9/16/2008,Vintage
+31,The Five People You Meet in Heaven,Mitch Albom,3.93,1401308589,9781401308582,eng,196,556290,20084,9/23/2003,Hyperion
+32,Wuthering Heights,Emily Brontë,3.85,0140287322,9780140287321,eng,337,1201202,26295,12/31/1994,Penguin
+33,The Immortal Life of Henrietta Lacks,Rebecca Skloot,4.06,1400052173,9781400052172,eng,370,492460,33484,2/9/2010,Broadway Books
+34,Alice's Adventures in Wonderland,Lewis Carroll,4.05,0199558296,9780199558292,eng,112,236779,6092,10/1/2008,Oxford University Press
+35,Slaughterhouse-Five,Kurt Vonnegut,4.08,0385333846,9780385333849,eng,275,994287,38346,4/6/1999,Delta
+36,In Cold Blood,Truman Capote,4.06,0679745580,9780679745587,eng,343,515069,15308,2/1/1994,Vintage
+37,The Year of Living Biblically,A.J. Jacobs,3.62,0743291476,9780743291473,eng,388,72224,5894,9/9/2008,Simon & Schuster
+38,The Old Man and the Sea,Ernest Hemingway,3.75,0684801221,9780684801223,eng,127,672063,10789,9/8/1995,Scribner
+39,The Catcher in the Rye,J.D. Salinger,3.81,0316769452,9780316769457,eng,227,2768723,49513,1/30/2001,Back Bay Books
+40,The Glass Castle,Jeannette Walls,4.25,1419647319,9781419647317,eng,275,1334371,21642,7/1/2006,Twenty-First Century Books
+41,Harry Potter and the Chamber of Secrets,J.K. Rowling,4.40,0439064872,9780439064873,eng,341,2068223,19088,6/2/1999,Scholastic Inc.
+42,Harry Potter and the Prisoner of Azkaban,J.K. Rowling,4.55,043965548X,9780439655484,eng,435,1996446,13556,8/15/2004,Scholastic
+43,Harry Potter and the Goblet of Fire,J.K. Rowling,4.57,0439139597,9780439139595,eng,734,1761399,12363,9/28/2002,Scholastic
